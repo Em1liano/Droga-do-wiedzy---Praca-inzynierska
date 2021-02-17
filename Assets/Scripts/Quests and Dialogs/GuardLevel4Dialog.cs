@@ -72,6 +72,7 @@ public class GuardLevel4Dialog : MonoBehaviour
             continueButton1.SetActive(false);
             CloseEntryCanvas();
             Fox.gameObject.tag = "null";
+            player.TurnOnCanvas();
         }
     }
 

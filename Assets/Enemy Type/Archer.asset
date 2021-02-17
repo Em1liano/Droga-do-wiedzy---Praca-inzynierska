@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Archer
   description: Range enemy
-  maxHealth: 150
-  expPerKill: 50
+  maxHealth: 250
+  expPerKill: 40
   damage: 30
   defence: 0
   speed: 5

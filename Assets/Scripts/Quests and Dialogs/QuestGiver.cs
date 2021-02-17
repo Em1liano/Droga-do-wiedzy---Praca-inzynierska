@@ -253,7 +253,6 @@ public class QuestGiver : MonoBehaviour
                 }
             case QuestState.End:
                 {
-                    FindObjectOfType<Door>().TurnOnKey();
                     player = FindObjectOfType<PlayerController>();
                     player.GetComponent<AgentMovement>().canMove = true;
                     questMark.SetActive(false);

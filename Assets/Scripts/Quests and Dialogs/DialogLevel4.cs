@@ -143,6 +143,7 @@ public class DialogLevel4 : MonoBehaviour
         dialogCanvas2.SetActive(false);
         player = FindObjectOfType<PlayerController>();
         player.GetComponent<AgentMovement>().canMove = true;
+        questMark.SetActive(false);
     }
 
     public void DetectEnemiesLevel4()

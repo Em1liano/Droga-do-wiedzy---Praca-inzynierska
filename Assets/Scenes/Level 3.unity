@@ -11479,9 +11479,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   quest:
     isActive: 0
-    title: On the hunt!
-    description: You must kill carbonaura!
-    experienceReward: 100
+    title: Polowanie!
+    description: Pokonaj carbonaure.
+    experienceReward: 350
     goal:
       goalType: 0
       requiredAmount: 1
