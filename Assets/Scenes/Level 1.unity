@@ -2033,7 +2033,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh161520
+  m_Name: pb_Mesh32560
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5381,7 +5381,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -169, y: -66.3}
+  m_AnchoredPosition: {x: -206, y: 0}
   m_SizeDelta: {x: 230.1001, y: 182.68599}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &807817324
@@ -6507,7 +6507,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh161910
+  m_Name: pb_Mesh32942
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7120,7 +7120,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Continue
+  m_text: Kontynuuj
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7aa9dabf5f5264e418a0717ded1b4c26, type: 2}
   m_sharedMaterial: {fileID: -8354594201907599676, guid: 7aa9dabf5f5264e418a0717ded1b4c26, type: 2}
@@ -8442,7 +8442,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh161736
+  m_Name: pb_Mesh32772
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9134,7 +9134,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Continue
+  m_text: 'Kontynuuj
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7aa9dabf5f5264e418a0717ded1b4c26, type: 2}
   m_sharedMaterial: {fileID: -8354594201907599676, guid: 7aa9dabf5f5264e418a0717ded1b4c26, type: 2}
@@ -11376,7 +11378,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 217, y: -66.3}
+  m_AnchoredPosition: {x: 206, y: 0}
   m_SizeDelta: {x: 230.1001, y: 182.68599}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1822048259
@@ -12932,7 +12934,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh161348
+  m_Name: pb_Mesh32384
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16700,7 +16702,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 38, y: -67}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 149.354, y: 122.79651}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2696714171378055839
@@ -18563,7 +18565,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.300003, y: 9.3}
+  m_AnchoredPosition: {x: -1.300003, y: 9.299988}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6490285279458952865
@@ -18612,7 +18614,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: C H E C K
+  m_text: S P R A W D Z
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7aa9dabf5f5264e418a0717ded1b4c26, type: 2}
   m_sharedMaterial: {fileID: -8354594201907599676, guid: 7aa9dabf5f5264e418a0717ded1b4c26, type: 2}
@@ -18789,10 +18791,10 @@ RectTransform:
   m_Father: {fileID: 1801528729}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 41, y: -376}
-  m_SizeDelta: {x: 176.68451, y: 82.39148}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 210}
+  m_SizeDelta: {x: 213.52234, y: 82.39148}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6490285279941657207
 GameObject:
